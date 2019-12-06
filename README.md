@@ -1,4 +1,4 @@
-# Using ng-recaptcha npm package in an Angular project
+# Using the ng-recaptcha npm package in an Angular project
 
 If you're using an Angular form, paste your public key in the component in the 'recaptchaPublicKey' variable.
 
